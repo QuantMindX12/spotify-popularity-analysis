@@ -35,7 +35,7 @@ We found a strong relationship between hit songs and album performance.
 ## 📈 Visualizations
 Below is a heatmap comparing musical attributes (like acousticness, tempo, and energy) between solo and collaborative tracks:
 
-![Feature Heatmap](images/heatmap.png)
+![Feature Heatmap](images/Heatmap.png)
 
 
 ## 🔗 Live Analysis
