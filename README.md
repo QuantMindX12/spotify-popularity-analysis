@@ -23,6 +23,9 @@ We found a strong relationship between hit songs and album performance.
 * [**Statistical Testing:** Performed T-tests to verify the significance of popularity differences between groups[cite: 24].
 * [**Visualization:** Used Heatmaps, Histograms, and Boxplots to identify outliers and trends[cite: 21, 25].
 
+## 📄 Full Report
+**[Download the Final PDF Report (Final Project Report.pdf)](Final Project Report.pdf)**
+
 
 ## 🔗 Live Analysis
 [**Click here to view the full interactive Jupyter Notebook Analysis**](https://quantmindx12.github.io/spotify-popularity-analysis/)
