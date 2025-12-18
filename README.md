@@ -5,13 +5,6 @@
 1. [**Solo vs. Collaboration:** Do songs performed by multiple artists perform better than solo tracks? [cite: 6]
 2. [**The "Halo Effect":** Does the presence of a highly popular song in an album boost the popularity of other tracks in that same album? [cite: 5]
 
-## 👥 Contributors (Group B)
-* [**Priyankkumar Mali** 
-* Manas Tripathi
-* Nishtha Kapoor
-* Kaavya Nagarajan
-* Hanzala Syed
-
 ## 📊 Key Findings
 
 ### 1. Collaboration = Higher Popularity
