@@ -32,11 +32,6 @@ We found a strong relationship between hit songs and album performance.
 * [**Statistical Testing:** Performed T-tests to verify the significance of popularity differences between groups[cite: 24].
 * [**Visualization:** Used Heatmaps, Histograms, and Boxplots to identify outliers and trends[cite: 21, 25].
 
-## 📈 Visualizations
-Below is a heatmap comparing musical attributes (like acousticness, tempo, and energy) between solo and collaborative tracks:
-
-![Feature Heatmap](images/Heatmap.png)
-
 
 ## 🔗 Live Analysis
 [**Click here to view the full interactive Jupyter Notebook Analysis**](https://quantmindx12.github.io/spotify-popularity-analysis/)
