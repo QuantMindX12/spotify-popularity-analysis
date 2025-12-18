@@ -12,8 +12,6 @@
 * [**Average Popularity:** Collaborative tracks scored an average of **86.88**, while solo tracks averaged **74.00**.
 * [**Musical Features:** Collaborative songs tend to have higher **danceability** and wider variations in **energy** compared to solo tracks[cite: 60, 63].
 
-![Popularity Distribution](images/popularity-dist.png)
-*Distribution of popularity showing collaborative tracks (blue) vs. solo tracks (orange).*
 
 ### 2. Album Dynamics
 We found a strong relationship between hit songs and album performance.
