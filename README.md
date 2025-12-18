@@ -24,7 +24,7 @@ We found a strong relationship between hit songs and album performance.
 * [**Visualization:** Used Heatmaps, Histograms, and Boxplots to identify outliers and trends[cite: 21, 25].
 
 ## 📄 Full Report
-**[Download the Final PDF Report (Final Project Report.pdf)](Final Project Report.pdf)**
+**[Download the Final PDF Report](Final%20Project%20Report.pdf)**
 
 
 ## 🔗 Live Analysis
